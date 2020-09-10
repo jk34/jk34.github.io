@@ -356,7 +356,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 .other {
-    width: 99%;
+    width: 100%;
     -moz-animation: jquery 2s ease;
     -webkit-animation: jquery 2s ease;
 }
